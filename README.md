@@ -9,12 +9,12 @@
 
 ### command 
 1. create_parking_lot x (x is number of slots) 
-2. park x-1234-xxx Putih Mobil (number_plate vehicle_color type_vehicle)
+2. park x-1234-xxx Putih Mobil (number_plate vehicle_color vehicle_type)
 3. leave x (x is parking slot number)
 4. status
-5. type_of_vehicles Motor (type vehicle)
+5. type_of_vehicles xxxx (x is vehicle type)
 6. registration_numbers_for_vehicles_with_odd_plate
 7. registration_numbers_for_vehicles_with_even_plate
-8. registration_numbers_for_vehicles_with_colour Putih (vehicle color)
+8. registration_numbers_for_vehicles_with_colour xxxx (x is vehicle color)
 9. slot_number_for_registration_number x-1234-xxx(number plate)
 10. exit
