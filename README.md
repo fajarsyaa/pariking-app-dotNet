@@ -1,4 +1,4 @@
-# pariking-app-dotNet
+# parking-app-dotNet
 
 ## make sure you have installed .NET SDK
 #
