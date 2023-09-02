@@ -1,7 +1,8 @@
 # pariking-app-dotNet
 
 ## make sure you have installed .NET SDK
-## run proeject
+#
+## run proeject via CLI
 1. cd project
 2. dotnet build
 3. dotnet run
